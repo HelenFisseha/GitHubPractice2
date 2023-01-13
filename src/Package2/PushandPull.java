@@ -4,5 +4,8 @@ public class PushandPull {
 	public static void main(String[] args) {
 		System.out.println("hello");
 	}
-//this is a pull practice
+	
+ public static void add(int a , int b) {
+	 
+ }
 }
