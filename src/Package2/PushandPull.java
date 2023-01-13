@@ -6,6 +6,7 @@ public class PushandPull {
 	}
 	
  public static void add(int a , int b) {
+	 System.out.println("good morning");
 	 
  }
 }
